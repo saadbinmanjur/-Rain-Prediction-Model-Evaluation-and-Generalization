@@ -90,3 +90,13 @@ Method | Score | Original score
 | :--- | ---: | :---:
 k-Fold Cross  | 0.8483 | 0.8485
 GridSearch CV  | 0.8485 | 0.8485
+
+
+At the end we sum up with these
+
+•	Our original model test accuracy is 0.8485 while GridSearch CV accuracy is 0.8485.
+
+•	We can see that by doing a couple of models generalizing technique it did not improve the performance for this particular model.
+
+•	So, we can confirm by the model evaluation and generalization that our model suits best for the datasets predicting the rain on the next day.
+
