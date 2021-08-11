@@ -1,6 +1,8 @@
 # Rain Prediction, Model Evaluation & Generalization
 Predict next-day rain by training classification models on the target variable RainTomorrow. This dataset contains about 10 years of daily weather observations from many locations across Australia. RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more.
 
+You can find the dataset [here](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
+
 Objectives:
 
 - Developing an ML model that suits best for the datasets predicting the rain on the next day.
